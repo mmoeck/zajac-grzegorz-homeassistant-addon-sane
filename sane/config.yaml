@@ -1,8 +1,8 @@
 ---
-name: Sane
+name: SANE
 version: "dev"
 slug: sane-scanner
-description: A Sane server for wireless scanning
+description: A SANE server for wireless scanning
 arch:
   - amd64
   - aarch64

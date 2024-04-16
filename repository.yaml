@@ -1,0 +1,5 @@
+---
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: "Home Assistant SANE Scanner Add-On repository"
+url: "https://github.com/joschi/homeassistant-addon-sane"
+maintainer: "Jochen Schalanda <jochen+home-assistant@schalanda.name>"
