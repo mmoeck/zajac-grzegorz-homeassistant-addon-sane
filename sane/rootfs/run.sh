@@ -9,3 +9,7 @@ ulimit -n 1048576
 bashio::log.info "Starting SANEd server as CMD from S6"
 
 saned -l --user=root
+
+sleep 2
+
+scanimage -L
